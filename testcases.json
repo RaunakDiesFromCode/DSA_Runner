@@ -1,0 +1,21 @@
+{
+  "method": "lcm",
+  "testCases": [
+    {
+      "input": [12, 18],
+      "expected": 36
+    },
+    {
+      "input": [8, 12],
+      "expected": 24
+    },
+    {
+      "input": [7, 7],
+      "expected": 7
+    },
+    {
+      "input": [1, 15],
+      "expected": 15
+    }
+  ]
+}
